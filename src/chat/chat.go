@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"gopool"
+	"wx_examples/gopool"
 	"io"
 	"math/rand"
 	"net"

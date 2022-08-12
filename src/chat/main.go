@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"gopool"
+	"wx_examples/gopool"
 	"log"
 	"net"
 	"time"
